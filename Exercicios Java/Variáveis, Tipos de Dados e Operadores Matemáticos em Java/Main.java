@@ -46,6 +46,5 @@ System.out.println(quantidadeProduto);
 System.out.println(NUMERO_TENTATIVAS);
 System.out.println(QUANTIDADE_OPCOES);
 
-
   }
 }
